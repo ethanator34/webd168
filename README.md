@@ -9,6 +9,6 @@ The links for the lessons are below:
 6. https://github.com/ethanator34/lesson05PART1B
 6. https://github.com/ethanator34/lesson05PART2
 7. https://github.com/ethanator34/lesson06
-8. https://ethanator34.github.io/lesson07PART1/
-8. https://ethanator34.github.io/lesson07PART2/
+8. https://github.com/ethanator34/lesson07PART1
+8. https://github.com/ethanator34/lesson07PART2
 9. 
